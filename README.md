@@ -179,6 +179,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [SimpleLogin](https://simplelogin.io) – A tool to easily create aliases for your email. Allows 15 aliases for free.
 * [AnonAddy](https://anonaddy.com) – A tool to create aliases that forward to their email address. Allows unlimited aliases.
 * [Firefox Relay](https://relay.firefox.com) – Create aliases that forward to your real inbox. Allows 5 aliases.
+* [anon.li Alias](https://anon.li/alias) – Create email aliases to protect your privacy. Free plan supports PGP encryption and replies. Allows 11 aliases.
 
 ### Temporary email
 
@@ -320,6 +321,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Tresorit](https://tresorit.com) – An end-to-end encrypted file sync and sharing solution.
 * [Syncthing](https://syncthing.net) – A continuous file synchronization program.
 * [Rclone](https://rclone.org) – A command line program to manage files on cloud storage.
+* [anon.li Drop](https://anon.li/drop) – An end-to-end encrypted file sharing solution with AES-256-GCM client-side encryption. Share up to 250GB with an expiry of up to 30 days through the web or CLI.
 
 ## Encryption
 
