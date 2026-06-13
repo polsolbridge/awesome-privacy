@@ -326,6 +326,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 ## Encryption
 
 * [Cryptomator](https://cryptomator.org) – A tool to encrypt your data quickly and easily.
+- [SwapTitan](https://swaptitan.net) - Privacy-preserving crypto swap. BTC/ETH/SOL to Monero (XMR) and 1288+ assets instantly. No KYC, no account, no tracking. Paysafecard (cash) support.
 * [VeraCrypt](https://www.veracrypt.fr) – A free open source disk encryption software.
 * [Kryptor](https://kryptor.co.uk) – A free and open source file encryption software.
 * [7-Zip](https://7-zip.org) – A free and open-source file archiver.
